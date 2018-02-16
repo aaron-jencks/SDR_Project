@@ -1,9 +1,9 @@
-freq=88900000
+freq=$1
 Strength=0
-while (( $freq < 107900000 )); do
+while (( $freq < $2 )); do
 	OUTPUT=$( expect ScannerExpectScript.exp $freq )
 	printf -v Strength '%d\n' "$OUTPUT" 2>/dev/null
-	until (( $Strength > -10 )); do
+	until (( $Strength > $3 )); do
 		let freq=$freq+200000
 		OUTPUT=$( expect ScannerExpectScript.exp $freq )
 		printf -v Strength '%d\n' "$OUTPUT" 2>/dev/null
