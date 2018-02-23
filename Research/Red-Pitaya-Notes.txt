@@ -1,1 +1,2 @@
 pavel-demin.github.io/red-pitaya-notes/
+http://redpitaya.readthedocs.io/en/latest/appsFeatures/remoteControl/remoteControl.html
