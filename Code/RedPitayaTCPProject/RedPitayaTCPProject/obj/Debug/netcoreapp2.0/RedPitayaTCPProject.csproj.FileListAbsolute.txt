@@ -1,0 +1,11 @@
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\RedPitayaTCPProject.deps.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\RedPitayaTCPProject.runtimeconfig.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\RedPitayaTCPProject.runtimeconfig.dev.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\RedPitayaTCPProject.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\RedPitayaTCPProject.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.AssemblyInfo.cs
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.pdb
