@@ -1,0 +1,9 @@
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.deps.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\obj\Debug\netcoreapp2.0\TransmissionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\obj\Debug\netcoreapp2.0\TransmissionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\obj\Debug\netcoreapp2.0\TransmissionLibrary.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\obj\Debug\netcoreapp2.0\TransmissionLibrary.AssemblyInfo.cs
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\obj\Debug\netcoreapp2.0\TransmissionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionLibrary\obj\Debug\netcoreapp2.0\TransmissionLibrary.pdb

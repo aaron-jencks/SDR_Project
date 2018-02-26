@@ -1,0 +1,13 @@
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.deps.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.runtimeconfig.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.runtimeconfig.dev.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\bin\Debug\netcoreapp2.0\TransmissionLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\obj\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\obj\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\obj\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\obj\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.AssemblyInfo.cs
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\obj\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\TransmissionDebuggingTestbench\obj\Debug\netcoreapp2.0\TransmissionDebuggingTestbench.pdb
