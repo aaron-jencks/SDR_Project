@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "CommunicationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CommunicationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommunicationLibrary.dll": {}
+        }
       }
     }
   },
@@ -656,10 +666,16 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "CommunicationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CommunicationLibrary/CommunicationLibrary.csproj",
+      "msbuildProject": "../CommunicationLibrary/CommunicationLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "CommunicationLibrary >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -698,7 +714,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\CommunicationLibrary\\CommunicationLibrary.csproj": {
+              "projectPath": "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\CommunicationLibrary\\CommunicationLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

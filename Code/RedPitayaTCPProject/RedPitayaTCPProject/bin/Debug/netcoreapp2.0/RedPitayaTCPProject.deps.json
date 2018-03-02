@@ -7,14 +7,38 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "RedPitayaTCPProject/1.0.0": {
+        "dependencies": {
+          "CommunicationLibrary": "1.0.0",
+          "TransmissionLibrary": "1.0.0"
+        },
         "runtime": {
           "RedPitayaTCPProject.dll": {}
+        }
+      },
+      "CommunicationLibrary/1.0.0": {
+        "runtime": {
+          "CommunicationLibrary.dll": {}
+        }
+      },
+      "TransmissionLibrary/1.0.0": {
+        "runtime": {
+          "TransmissionLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "RedPitayaTCPProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommunicationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TransmissionLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

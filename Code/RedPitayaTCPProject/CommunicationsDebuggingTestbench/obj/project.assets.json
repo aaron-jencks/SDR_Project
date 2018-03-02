@@ -196,6 +196,39 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "CommunicationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CommunicationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommunicationLibrary.dll": {}
+        }
+      },
+      "ReceptionLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "CommunicationLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReceptionLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReceptionLibrary.dll": {}
+        }
+      },
+      "TransmissionLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TransmissionLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TransmissionLibrary.dll": {}
+        }
       }
     }
   },
@@ -656,11 +689,29 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "CommunicationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CommunicationLibrary/CommunicationLibrary.csproj",
+      "msbuildProject": "../CommunicationLibrary/CommunicationLibrary.csproj"
+    },
+    "ReceptionLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ReceptionLibrary/ReceptionLibrary.csproj",
+      "msbuildProject": "../ReceptionLibrary/ReceptionLibrary.csproj"
+    },
+    "TransmissionLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TransmissionLibrary/TransmissionLibrary.csproj",
+      "msbuildProject": "../TransmissionLibrary/TransmissionLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "CommunicationLibrary >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.0.0",
+      "ReceptionLibrary >= 1.0.0",
+      "TransmissionLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -698,7 +749,17 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\ReceptionLibrary\\ReceptionLibrary.csproj": {
+              "projectPath": "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\ReceptionLibrary\\ReceptionLibrary.csproj"
+            },
+            "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\CommunicationLibrary\\CommunicationLibrary.csproj": {
+              "projectPath": "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\CommunicationLibrary\\CommunicationLibrary.csproj"
+            },
+            "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\TransmissionLibrary\\TransmissionLibrary.csproj": {
+              "projectPath": "C:\\Users\\aaron\\Documents\\GitHub\\SDR_Project\\Code\\RedPitayaTCPProject\\TransmissionLibrary\\TransmissionLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

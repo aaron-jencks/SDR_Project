@@ -9,3 +9,7 @@ C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTC
 C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.AssemblyInfo.cs
 C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.dll
 C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\obj\Debug\netcoreapp2.0\RedPitayaTCPProject.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\CommunicationLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\TransmissionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\CommunicationLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\RedPitayaTCPProject\bin\Debug\netcoreapp2.0\TransmissionLibrary.pdb

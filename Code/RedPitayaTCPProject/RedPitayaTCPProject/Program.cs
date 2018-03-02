@@ -2,6 +2,8 @@
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
+using CommunicationLibrary;
+using ReceptionLibrary;
 
 namespace RedPitayaTCPProject
 {
@@ -9,31 +11,21 @@ namespace RedPitayaTCPProject
     {
         static void Main(string[] args)
         {
+            PitayaComm comms = new PitayaComm();
+            comms.Connect();
             Console.WriteLine("Hello World!");
-            TcpClient client = new TcpClient();
-            client.Connect("rp-f04948.local", 5000);
-            NetworkStream stream = client.GetStream();
-            Thread RxThread = new Thread(RxManager);
-            RxThread.Start();
+            comms.RxEvent += OnRxEvent;
+            Class1.ScanForFrequencies(ref comms);
 
-            while(client.Connected)
+            while(comms.IsConnected)
             {
                 string entry = Console.ReadLine();
-                stream.Write(Encoding.ASCII.GetBytes(entry), 0, entry.Length);
+                comms.Transmit(Encoding.ASCII.GetBytes(entry));
             }
 
-            void RxManager()
+            void OnRxEvent(object sender, RxEventArgs e)
             {
-                byte[] message = new byte[256];
-                while(client.Connected)
-                {
-                    int count = stream.Read(message, 0, message.Length);
-                    if(count != 0)
-                    {
-                        stream.Read(message, 0, count);
-                        Console.WriteLine(Encoding.ASCII.GetString(message));
-                    }
-                }
+                Console.WriteLine("Received a message!");
             }
         }
     }

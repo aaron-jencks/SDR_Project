@@ -197,9 +197,22 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "CommunicationLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CommunicationLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommunicationLibrary.dll": {}
+        }
+      },
       "ReceptionLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "CommunicationLibrary": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ReceptionLibrary.dll": {}
         },
@@ -666,6 +679,11 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "CommunicationLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CommunicationLibrary/CommunicationLibrary.csproj",
+      "msbuildProject": "../CommunicationLibrary/CommunicationLibrary.csproj"
     },
     "ReceptionLibrary/1.0.0": {
       "type": "project",
