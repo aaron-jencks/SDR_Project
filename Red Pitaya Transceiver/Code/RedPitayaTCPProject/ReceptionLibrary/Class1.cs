@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace ReceptionLibrary
 {
-    public class Class1
+    public class Class1 | PitayaRx
     {
         public void GetStrength()
         {
