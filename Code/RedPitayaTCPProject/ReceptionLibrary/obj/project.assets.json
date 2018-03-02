@@ -200,11 +200,24 @@
       "CommunicationLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "TransmissionLibrary": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CommunicationLibrary.dll": {}
         },
         "runtime": {
           "bin/placeholder/CommunicationLibrary.dll": {}
+        }
+      },
+      "TransmissionLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TransmissionLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TransmissionLibrary.dll": {}
         }
       }
     }
@@ -671,6 +684,11 @@
       "type": "project",
       "path": "../CommunicationLibrary/CommunicationLibrary.csproj",
       "msbuildProject": "../CommunicationLibrary/CommunicationLibrary.csproj"
+    },
+    "TransmissionLibrary/1.0.0": {
+      "type": "project",
+      "path": "../TransmissionLibrary/TransmissionLibrary.csproj",
+      "msbuildProject": "../TransmissionLibrary/TransmissionLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
