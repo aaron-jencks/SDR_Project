@@ -6,3 +6,14 @@ C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\Communicati
 C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.AssemblyInfo.cs
 C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.dll
 C:\Users\aaron\Documents\GitHub\SDR_Project\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.AssemblyInfo.cs
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\obj\Debug\netcoreapp2.0\CommunicationLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\bin\Debug\netcoreapp2.0\CommunicationLibrary.deps.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\bin\Debug\netcoreapp2.0\CommunicationLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\bin\Debug\netcoreapp2.0\CommunicationLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\CommunicationLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.pdb

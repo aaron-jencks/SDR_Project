@@ -9,6 +9,7 @@
       "RedPitayaTCPProject/1.0.0": {
         "dependencies": {
           "CommunicationLibrary": "1.0.0",
+          "ReceptionLibrary": "1.0.0",
           "TransmissionLibrary": "1.0.0"
         },
         "runtime": {
@@ -16,8 +17,19 @@
         }
       },
       "CommunicationLibrary/1.0.0": {
+        "dependencies": {
+          "TransmissionLibrary": "1.0.0"
+        },
         "runtime": {
           "CommunicationLibrary.dll": {}
+        }
+      },
+      "ReceptionLibrary/1.0.0": {
+        "dependencies": {
+          "CommunicationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ReceptionLibrary.dll": {}
         }
       },
       "TransmissionLibrary/1.0.0": {
@@ -34,6 +46,11 @@
       "sha512": ""
     },
     "CommunicationLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReceptionLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

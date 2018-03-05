@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TransmissionLibrary
 {
-    class TransmissionObj : PitayaTx
+    class TransmissionObj
     {
 
     }

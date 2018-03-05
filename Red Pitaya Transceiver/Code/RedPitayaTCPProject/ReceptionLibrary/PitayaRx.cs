@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-using namespace ReceptionLibrary 
+namespace ReceptionLibrary 
 {
   public abstract class PitayaRx
   {
@@ -17,7 +17,7 @@ using namespace ReceptionLibrary
       addStationBookmark(freq);
      }
   public abstract void addStationBookmark(double freq);
-  public abstract list<double> getScan (double threshold); 
+  public abstract List<double> getScan (double threshold); 
  }
  public enum Rxtype { narrowFM = 0, AM = 1, SSBAM = 2}
  

@@ -1,0 +1,13 @@
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\obj\Debug\netcoreapp2.0\ReceptionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\obj\Debug\netcoreapp2.0\ReceptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\obj\Debug\netcoreapp2.0\ReceptionLibrary.AssemblyInfoInputs.cache
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\obj\Debug\netcoreapp2.0\ReceptionLibrary.AssemblyInfo.cs
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\ReceptionLibrary.deps.json
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\ReceptionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\ReceptionLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\CommunicationLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\CommunicationLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\bin\Debug\netcoreapp2.0\TransmissionLibrary.pdb
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\obj\Debug\netcoreapp2.0\ReceptionLibrary.dll
+C:\Users\aaron\Documents\GitHub\SDR_Project\Red Pitaya Transceiver\Code\RedPitayaTCPProject\ReceptionLibrary\obj\Debug\netcoreapp2.0\ReceptionLibrary.pdb

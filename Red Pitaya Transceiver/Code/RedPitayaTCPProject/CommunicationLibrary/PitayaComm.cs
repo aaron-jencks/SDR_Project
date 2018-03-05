@@ -131,9 +131,9 @@ namespace CommunicationLibrary
                     {
                         isReading = true;
                         int count = Stream.Read(message, 0, message.Length);
-                        if (count != 0)
+                        if (count > 0)
                         {
-                            Stream.Read(message, 0, count);
+                            //Stream.Read(message, 0, count);
                             OnRxEvent(new RxEventArgs(Encoding.ASCII.GetString(message)));
                         }
                         isReading = false;

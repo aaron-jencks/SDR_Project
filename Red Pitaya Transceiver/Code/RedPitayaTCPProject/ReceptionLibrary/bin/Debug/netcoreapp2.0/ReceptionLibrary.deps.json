@@ -6,6 +6,14 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
+      "ReceptionLibrary/1.0.0": {
+        "dependencies": {
+          "CommunicationLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ReceptionLibrary.dll": {}
+        }
+      },
       "CommunicationLibrary/1.0.0": {
         "dependencies": {
           "TransmissionLibrary": "1.0.0"
@@ -22,6 +30,11 @@
     }
   },
   "libraries": {
+    "ReceptionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CommunicationLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,

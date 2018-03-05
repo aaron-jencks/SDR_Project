@@ -15,12 +15,14 @@ namespace RedPitayaTCPProject
             comms.Connect();
             Console.WriteLine("Hello World!");
             comms.RxEvent += OnRxEvent;
-            Class1.ScanForFrequencies(ref comms);
 
             while(comms.IsConnected)
             {
                 string entry = Console.ReadLine();
-                comms.Transmit(Encoding.ASCII.GetBytes(entry));
+                if (entry == "exit")
+                    comms.Close();
+                else
+                    comms.Transmit(Encoding.ASCII.GetBytes(entry+"\r\f"));
             }
 
             void OnRxEvent(object sender, RxEventArgs e)
